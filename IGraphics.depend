@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1563940332 source:c:\users\user\downloads\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563940332 c:\users\user\downloads\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 c:\users\user\downloads\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\users\user\downloads\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\users\user\downloads\igraphics-master\opengl\include\gl.h
+
+1602947068 source:c:\users\user\downloads\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563940332 source:c:\users\user\downloads\igraphics-master\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1602928241 source:c:\users\user\downloads\igraphics-master\imain.cpp
+	"iGraphics.h"
+
+1563940332 source:c:\users\user\downloads\igraphics-master\textinputdemo.cpp
+	"iGraphics.h"
+
+1563940332 source:c:\users\user\downloads\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1604484573 source:c:\users\user\downloads\igraphics-master\1905018.cpp
+	"iGraphics.h"
+	"gl.h"
+
